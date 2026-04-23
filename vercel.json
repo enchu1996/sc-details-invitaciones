@@ -1,6 +1,8 @@
 {
   "rewrites": [
     { "source": "/daniel-nicole", "destination": "/clientes/daniel-nicole/index.html" },
-    { "source": "/daniel-nicole/(.*)", "destination": "/clientes/daniel-nicole/$1" }
+    { "source": "/daniel-nicole/(.*)", "destination": "/clientes/daniel-nicole/$1" },
+    { "source": "/caro-enzo", "destination": "/clientes/caro-enzo/index.html" },
+    { "source": "/caro-enzo/(.*)", "destination": "/clientes/caro-enzo/$1" }
   ]
 }
