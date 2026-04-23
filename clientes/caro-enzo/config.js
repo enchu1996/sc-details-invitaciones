@@ -40,7 +40,7 @@ const CONFIG = {
 
   // ── IMAGEN DE FONDO (welcome screen) ─────────────────────
   // Link directo a imagen .jpg o .png
-  fondoURL: "https://i.imgur.com/3X6sDnP.png", // ← Reemplazar con imagen del salón
+  fondoURL: "https://i.imgur.com/PLACEHOLDER.jpg", // ← Reemplazar con imagen del salón
 
   // ── COLORES ──────────────────────────────────────────────
   colores: {
