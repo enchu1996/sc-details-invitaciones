@@ -1,5 +1,6 @@
 {
   "rewrites": [
-    { "source": "/:cliente", "destination": "/clientes/:cliente/index.html" }
+    { "source": "/daniel-nicole", "destination": "/clientes/daniel-nicole/index.html" },
+    { "source": "/daniel-nicole/(.*)", "destination": "/clientes/daniel-nicole/$1" }
   ]
 }
